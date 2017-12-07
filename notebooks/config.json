@@ -1,6 +1,6 @@
 {
   "notebook": {
-    "folder": “template_in_class(put repo name here)”,
-    "file": “template_slides.ipynb(put notebook name here)”
+    "folder": “time_series_102_in_class(put repo name here)”,
+    "file": “Time_series_day_2.ipynb”
   }
 }
